@@ -39,6 +39,9 @@ def get_products(products):
     return "\n".join(product_list)
 
 
+
+
+
 #TODO: gör om så du slipper använda global-keyword
 #TODO: write a function to return a specific product
 
